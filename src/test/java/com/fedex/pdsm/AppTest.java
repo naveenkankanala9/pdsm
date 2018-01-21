@@ -1,4 +1,4 @@
-package com.fedex.myproject;
+package com.fedex.pdsm;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
